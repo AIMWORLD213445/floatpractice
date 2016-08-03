@@ -1,0 +1,16 @@
+.before{
+  float:left;
+  width:33%;
+}
+.during{
+  float:left;
+  width:33%;
+}
+.after{
+  float:left;
+  width:33%;
+}
+img {
+  width: 70%;
+  height: auto;
+}
